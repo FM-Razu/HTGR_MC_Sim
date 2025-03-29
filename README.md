@@ -9,7 +9,7 @@ The study explores an innovative approach to manage the initial excess reactivit
 
 ## Key Features
 
-* **Monte Carlo Simulation:** Implements a custom-built Monte Carlo code for detailed neutron transport and depletion calculations.
+* **Monte Carlo Simulation:** Implements a Prismatic HTGR-3500Mw_th on OpenMC Monte Carlo code for detailed neutron transport and depletion calculations.
 * **Prismatic HTGR Geometry:** Models the specific geometry of a prismatic HTGR fuel block.
 * **TRISO Particle Fuel:** Accurately represents the complex structure of TRISO fuel particles within the simulation.
 * **Minor Actinide Incorporation:** Examines the impact of varying minor actinide content within the fuel matrix.
@@ -26,32 +26,9 @@ The study explores an innovative approach to manage the initial excess reactivit
 * `documentation/`: Holds any relevant documentation, reports, or presentations related to the project.
 * `README.md`: This file, providing an overview of the repository.
 
-## Dependencies
-
-* [List any specific libraries, software, or tools required to run the code.  Example: A C++ compiler (GCC/Clang) and Python 3.x with libraries like NumPy and Matplotlib may be required.]
-
-## Usage
-
-1.  Clone the repository:
-
-    ```bash
-    git clone [repository URL]
-    ```
-2.  Navigate to the `simulation_code/` directory.
-3.  Compile and run the simulation code according to the instructions within that directory.
-4.  Use the scripts in the `scripts/` directory to process, analyze, and visualize the simulation results.
-
 ## Notes
 
 * This repository contains code developed from scratch, demonstrating a strong understanding of reactor physics principles and Monte Carlo methods.
-
-## Contributing
-
-[Optional: If you're open to contributions, explain how others can contribute]
-
-## License
-
-[Optional: Specify the license under which the code is distributed]
 
 ## Contact
 
