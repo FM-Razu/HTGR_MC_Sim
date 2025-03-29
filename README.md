@@ -5,7 +5,7 @@ This repository contains my Monte Carlo simulation code, developed from scratch,
 
 ## Project Overview
 
-The study explores an innovative approach to manage the initial excess reactivity in HTGRs by incorporating minor actinides (MAs) into the fuel composition of TRISO particles. This repository shows the to analyze the depletion behavior of the fuel block and assess the effectiveness of this approach.
+The study explores an innovative approach to manage the initial excess reactivity in HTGRs by incorporating minor actinides (MAs) into the fuel composition of TRISO particles. This repository shows to analyze the depletion behavior of the fuel block and assess the effectiveness of this approach.
 
 ## Key Features
 
